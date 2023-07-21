@@ -1,6 +1,6 @@
 
-import BotaoConclui from "../componentes/concluiTarefa.js";
-import BotaoDeleta from "../componentes/deletaTarefa.js";
+import BotaoConclui from "../projeto_inicial/componentes/concluiTarefa.js";
+import BotaoDeleta from "../projeto_inicial/componentes/deletaTarefa.js"
     const criarTarefa = (evento) => {
         evento.preventDefault();
 
